@@ -1,8 +1,6 @@
 # Virtual Environment
 venv/
 
-# Vector Database
-vectorstore/
 
 # Environment Variables
 .env
@@ -13,7 +11,7 @@ vectorstore/
 # Cache
 __pycache__/
 *.pyc
-
+  
 # Large Files
 *.pdf
 *.dll
