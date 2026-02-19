@@ -1,0 +1,24 @@
+# Virtual Environment
+venv/
+
+# Vector Database
+vectorstore/
+
+# Environment Variables
+.env
+
+# Logs
+*.log
+
+# Cache
+__pycache__/
+*.pyc
+
+# Large Files
+*.pdf
+*.dll
+*.lib
+
+# OS Files
+.DS_Store
+Thumbs.db
